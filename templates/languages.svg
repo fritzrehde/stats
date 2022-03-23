@@ -59,6 +59,7 @@ div.ellipsis {
 
 .progress-item {
   outline: 2px solid transparent;
+  border-collapse: collapse;
 }
 
 .lang {
