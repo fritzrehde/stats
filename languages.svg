@@ -17,7 +17,7 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(36, 41, 46);
+  color: #0969da;
 }
 
 ul {
@@ -63,14 +63,14 @@ div.ellipsis {
 }
 
 .lang {
-  font-weight: 600;
   margin-right: 4px;
-  color: rgb(36, 41, 46);
+  color: #233;
 }
 
 .percent {
   color: rgb(88, 96, 105)
 }
+
 </style>
 <g>
 <foreignObject x="21" y="17" width="318" height="176">
