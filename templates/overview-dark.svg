@@ -30,7 +30,7 @@ th {
   padding-bottom: 0.5em;
   padding-left: 0.25em;
   text-align: left;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   color: #539bf5;
 }
