@@ -72,7 +72,7 @@ div.ellipsis {
 }
 
 .progress-item {
-	outline: 2px solid transparent;
+	outline: 2px solid rgb(225, 228, 232);
   border-collapse: collapse;
 }
 
