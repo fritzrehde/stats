@@ -1,4 +1,4 @@
-|![Fritz Rehde's GitHub Stats](https://github.com/fritzrehde/stats/blob/generated/overview.svg#gh-light-mode-only) ![Fritz Rehde's GitHub Stats](https://github.com/fritzrehde/stats/blob/generated/overview-dark.svg#gh-dark-mode-only)|![Most Used Languages](https://github.com/fritzrehde/stats/blob/generated/languages.svg#gh-light-mode-only) ![Most Used Languages](https://github.com/fritzrehde/stats/blob/generated/languages-dark.svg#gh-dark-mode-only)|
+|![Fritz Rehde's GitHub Statistics](https://github.com/fritzrehde/stats/blob/generated/overview.svg#gh-light-mode-only) ![Fritz Rehde's GitHub Statistics](https://github.com/fritzrehde/stats/blob/generated/overview-dark.svg#gh-dark-mode-only)|![Languages Used (by File Size)](https://github.com/fritzrehde/stats/blob/generated/languages.svg#gh-light-mode-only) ![Languages Used (by File Size)](https://github.com/fritzrehde/stats/blob/generated/languages-dark.svg#gh-dark-mode-only)|
 |:--:|:--:|
 
 This is a fork of [github-stats](https://github.com/jstrieb/github-stats) with customizations.
