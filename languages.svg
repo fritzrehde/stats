@@ -58,11 +58,12 @@ div.ellipsis {
 }
 
 .progress-item {
-  outline: 2px solid rgb(225, 228, 232);
+  outline: 2px solid transparent;
   border-collapse: collapse;
 }
 
 .lang {
+  font-weight: 600;
   margin-right: 4px;
   color: #233;
 }
