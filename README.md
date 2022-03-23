@@ -1,7 +1,7 @@
-|![Daofeng Wu's GitHub Stats](https://github.com/idiotWu/stats/blob/generated/overview.svg#gh-light-mode-only) ![Daofeng Wu's GitHub Stats](https://github.com/idiotWu/stats/blob/generated/overview-dark.svg#gh-dark-mode-only)|![Most Used Languages](https://github.com/idiotWu/stats/blob/generated/languages.svg#gh-light-mode-only) ![Most Used Languages](https://github.com/idiotWu/stats/blob/generated/languages-dark.svg#gh-dark-mode-only)|
+|![Fritz Rehde's GitHub Stats](https://github.com/fritzrehde/stats/blob/generated/overview.svg#gh-light-mode-only) ![Fritz Rehde's GitHub Stats](https://github.com/fritzrehde/stats/blob/generated/overview-dark.svg#gh-dark-mode-only)|![Most Used Languages](https://github.com/fritzrehde/stats/blob/generated/languages.svg#gh-light-mode-only) ![Most Used Languages](https://github.com/fritzrehde/stats/blob/generated/languages-dark.svg#gh-dark-mode-only)|
 |:--:|:--:|
 
-This is a fork of [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) with customizations.
+This is a fork of [github-stats](https://github.com/jstrieb/github-stats) with customizations.
 
 <details>
 <summary>Original README.md </summary>
