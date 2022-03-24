@@ -57,9 +57,8 @@ div.ellipsis {
   margin-bottom: 1em;
 }
 
-.progress-item {
-  outline: 2px solid transparent;
-  border-collapse: collapse;
+.progress-item:not(:last-child) {
+	margin-right: 2px;
 }
 
 .lang {
