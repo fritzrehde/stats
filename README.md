@@ -8,7 +8,7 @@ This is a fork of [github-stats](https://github.com/jstrieb/github-stats) with t
 - Remove animation (text sliding in from the left)
 - UI changes to achieve more similar look to native GitHub language showcases
   - Add spaces between the colors in the languages bar
-  - Bold languages text
+  - Make language names bold
 
 <details>
 <summary>Original README.md </summary>
