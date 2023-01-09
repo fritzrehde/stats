@@ -1,8 +1,6 @@
 |![Fritz Rehde's GitHub Statistics](https://github.com/fritzrehde/stats/blob/generated/overview.svg#gh-light-mode-only) ![Fritz Rehde's GitHub Statistics](https://github.com/fritzrehde/stats/blob/generated/overview-dark.svg#gh-dark-mode-only)|![Languages Used (by File Size)](https://github.com/fritzrehde/stats/blob/generated/languages.svg#gh-light-mode-only) ![Languages Used (by File Size)](https://github.com/fritzrehde/stats/blob/generated/languages-dark.svg#gh-dark-mode-only)|
 |:--:|:--:|
 
-This is a fork of [github-stats](https://github.com/jstrieb/github-stats) with customizations.
-
 This is a fork of [github-stats](https://github.com/jstrieb/github-stats) with the following customizations:
 - Only include data from public repositories (otherwise stats are overshadowed by e.g. irrelevant private latex contributions)
 - Support for both a light and dark theme
