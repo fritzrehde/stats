@@ -3,6 +3,15 @@
 
 This is a fork of [github-stats](https://github.com/jstrieb/github-stats) with customizations.
 
+This is a fork of [github-stats](https://github.com/jstrieb/github-stats) with the following customizations:
+- Only include data from public repositories (otherwise stats are overshadowed by e.g. irrelevant private latex contributions)
+- Support for both a light and dark theme
+- Commit the generated svg files to a [separate branch](https://github.com/fritzrehde/github-stats/tree/generated)
+- Remove animation (text sliding in from the left)
+- UI changes to achieve more similar look to native GitHub language showcases
+  - Add spaces between the colors in the languages bar
+  - Bold languages text
+
 <details>
 <summary>Original README.md </summary>
 
